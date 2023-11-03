@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+
+
+.header {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 0;
+
+}
+
+.luxury-store-LOGO2 {
+    width: 25vh;
+    margin-left: -40vh;
+}
+
+.nav-menu {
+    display: flex;
+    gap: 10vh;
+    margin-left: 85%;
+}
+
+.menu-item {
+    color: #ffffff;
+    font-family: 'Sarala', sans-serif;
+    font-size: 18px;
+}
+.content {
+    border-top: 3px solid #DAA520;
+    display: flex;
+    
+}
+
+.part-1 {
+    background-color: black;  
+}
+
+.title {
+    color: #ffffff;
+    margin-top: 10vh;
+    margin-left: 5vh;
+    font-family: 'Sarala', sans-serif;
+
+}
+
+.The-best {
+    font-size: 8vh;
+}
+
+.sub-title {
+    color: #ffffff;
+    margin-top: 10vh;
+    font-size: 40px;
+    margin-left: 5vh;
+}
+
+.luxury-store-LOGO1 {
+    width: 40vh;
+    margin-left: 8vh;
+}
+.porsche-image {
+     height: 100%;
+}
+ 
+
+
